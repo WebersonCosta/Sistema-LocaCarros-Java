@@ -4,7 +4,7 @@
 
 ## DESCRIÇÃO
 
-Bom, durante a unidade curricular de __lógica de programação__ meu professor passou para nossa turma um desafio lógico para criarmos um sistema de locação de veículos de uma empresa fictícia. O desafio funcionou como avaliação e eu utilizei a linguagem __*C*__ para codificar.  Todavia, resolvi refazer o mesmo projeto um pouco depois utilizando outra linguagem, dessa vez o __*JAVA*__ e este é o Resultado. O teste foi dividido em duas etapas.
+Bom, durante a unidade curricular de __lógica de programação__ meu professor passou para nossa turma um desafio lógico para criarmos um sistema de locação de veículos de uma empresa fictícia. O desafio funcionou como avaliação e eu utilizei a linguagem __*C*__ para codificar.  Todavia, resolvi refazer o mesmo projeto um pouco depois utilizando outra linguagem, dessa vez o __*JAVA*__ e foi o resultado. O teste foi dividido em duas etapas.
 
 * Etapa 1:
 
